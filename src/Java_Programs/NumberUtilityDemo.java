@@ -1,6 +1,6 @@
-package Java_2nd_Sem2;
+package Java_Programs;
 
-import static Java_2nd_Sem2.NumberUtility.*;
+import static Java_Programs.NumberUtility.*;
 import java.util.Scanner;
 
 public class NumberUtilityDemo {

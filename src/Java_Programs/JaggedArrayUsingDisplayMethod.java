@@ -1,3 +1,4 @@
+package Java_Programs;
 public class JaggedArrayUsingDisplayMethod {
     
     public static void display(int[][] jaggedArray) {

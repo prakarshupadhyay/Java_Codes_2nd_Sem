@@ -1,3 +1,4 @@
+package Java_Programs;
 public class RunningSum1D {
 
     public int[] runningSum(int[] nums) {

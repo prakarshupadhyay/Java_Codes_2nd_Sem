@@ -1,3 +1,4 @@
+package Java_Programs;
 public class StringDemo {
     public static void main(String[] args) {
         // using scanner for email and password

@@ -1,3 +1,4 @@
+package Java_Programs;
 class Product {
     int id;
     String name;

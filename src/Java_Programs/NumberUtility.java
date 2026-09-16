@@ -1,4 +1,4 @@
-package Java_2nd_Sem2;
+package Java_Programs;
 
 import java.math.BigInteger;
 abstract class NumberUtility {

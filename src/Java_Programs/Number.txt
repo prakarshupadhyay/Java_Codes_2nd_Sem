@@ -1,0 +1,9 @@
+1. Single level inhertiance
+    a. super class
+    b. subclass
+2. multilevel inheritance
+    a. super class
+    b. subclass
+3. heirarichal
+4. multiple inheritance 
+5. hybrid inheritance
