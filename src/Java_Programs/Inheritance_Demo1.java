@@ -21,6 +21,9 @@ public class Inheritance_Demo1 {
         }
     }
     public static void main(String[] args) {
+        // using getMoney() method to access the money variable from class A
+        int money = new Inheritance_Demo1().new B().getMoney();
+        System.out.println("Money from class A: " + money);
         Inheritance_Demo1 obj = new Inheritance_Demo1();
         B b = obj.new B();
         b.fill(1000, 500);
