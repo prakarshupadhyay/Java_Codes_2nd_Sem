@@ -1,6 +1,6 @@
 package Lambda;
 
-public class functional {
+public class Functional_Interface3 {
     interface Calculate {
         int calculate(int a, int b);
     }
