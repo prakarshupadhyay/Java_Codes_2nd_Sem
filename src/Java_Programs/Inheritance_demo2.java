@@ -43,6 +43,7 @@ public class Inheritance_demo2 {
         wt.perforDuty("Waiter");
     }
     // using runtime polymorphism
+    @SuppressWarnings("unused")
     void performDuty(Employee emp, String name) {
         emp.perforDuty(name);
         emp = new Manager();
