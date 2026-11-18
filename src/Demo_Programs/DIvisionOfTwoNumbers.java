@@ -19,10 +19,10 @@ public class DIvisionOfTwoNumbers {
         //System.out.println(arr[5]); //ArrayIndexOutOfBoundsException
 
         String str = null;
-       // System.out.println(str); //NullPointerException
+        System.out.println(str); //NullPointerException
 
         String s = "Prakarsh";
-        //System.out.println(s.charAt(9)); //StringIndexOutOfBoundsException
+        System.out.println(s.charAt(9)); //StringIndexOutOfBoundsException
 
         String str1 = "20r";
         System.out.println(Integer.parseInt(str1) + 20); //NumberFormatException
